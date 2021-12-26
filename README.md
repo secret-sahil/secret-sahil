@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=secret-sahil&show_icons=true&locale=en&layout=compact" alt="secret-sahil" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=secret-sahil&show_icons=true&locale=en" alt="secret-sahil" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secret-sahil&" alt="secret-sahil" /></p>
+<p>>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=secret-sahil&" alt="secret-sahil" /></p>
