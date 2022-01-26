@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sahil Kumar</h1>
 <h3 align="center">git commit -m "Hello, I'm a developer and love to develop my own ideas!"</h3>
 
-![Banner](https://repository-images.githubusercontent.com/441894498/ac99b0f9-e3e1-4066-aa96-9e6e5b127ca1)
+![Banner](https://repository-images.githubusercontent.com/441894498/4924857f-dfd5-4e27-8afa-a3429d7a7b4a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secret-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="secret-sahil" /> </p>
 
