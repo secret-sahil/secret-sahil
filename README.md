@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ``` var topics = [ "HTML", "PHP", "Python", "CSS", "JavaScript", "SQL"] ```
 
-- 📄 Know about my work & experiences [My Resume](https://mrsahil.in)
+- 📄 Know about my work & experiences [My Resume](https://mrsahil.in/resume.pdf)
 - 📧 [Reach me out!](mailto:contact@mrsahil.in)
 
 ### What are my featured projects:question::rocket:
