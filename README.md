@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Sahil Kumar</h1>
+<h1 align="center">Hi 👋🏻 I'm Sahil Kumar</h1>
 <h3 align="center">git commit -m "Hello, I'm a developer and love to develop my own ideas!"</h3>
 
 ![Banner](https://repository-images.githubusercontent.com/441894498/4924857f-dfd5-4e27-8afa-a3429d7a7b4a)
