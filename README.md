@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋🏻 I'm Sahil Kumar</h1>
 <h3 align="center">git commit -m "Hello, I'm a developer and love to develop my own ideas!"</h3>
 
-![Banner](https://repository-images.githubusercontent.com/441894498/306c3f9d-8892-49c2-af9d-3300a4da1d1e)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=secret-sahil&label=Profile%20views&color=0e75b6&style=flat" alt="secret-sahil" /> </p>
 
 - 👨‍💻 All about me is at [My Website](https://mrsahil.in/)
