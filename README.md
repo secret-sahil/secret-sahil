@@ -8,7 +8,7 @@
 - 💬 Ask me about ``` var topics = [ "HTML", "PHP", "Python", "CSS", "JavaScript", "SQL"] ```
 
 - 📄 Know about my work & experiences [My Resume](https://mrsahil.in/resume.pdf)
-- 📧 [Reach me out!](mailto:contact@mrsahil.in)
+- 📧 [Reach me out!](https://mrsahil.in/contact)
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
